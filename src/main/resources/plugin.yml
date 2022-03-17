@@ -1,0 +1,5 @@
+name: ElytraStaff
+version: '${project.version}'
+main: net.elytrapvp.elytrastaff.ElytraStaff
+authors: [ ElytraPvP ]
+website: http://www.elytrapvp.net
